@@ -19,4 +19,18 @@ div {
   background-color: darkcyan;
   text-align: right;
 }
+div {
+  background-color: blue;
+  text-align: right;
+}
+.header {
+  background-color: blue;
+  padding: 15px 25px;
+  text-align: right;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+}
 
